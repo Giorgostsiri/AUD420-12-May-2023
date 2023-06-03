@@ -28,11 +28,10 @@ Routine
         )
     )
 };
-	x.play;
-	y.play;
-    storm.play;
-    10.wait;
-	storm.release;
+x.play;
+y.play;
+storm.play;
+10.wait;
+storm.release;
 }.play;
-
 )
