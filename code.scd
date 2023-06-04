@@ -2,6 +2,10 @@
 ~buf1=  Buffer.read(s,"C:/Users/User/OneDrive/Υπολογιστής/SC/Aphex Twin - Alberto Balsam.wav");
 ~buf2=  Buffer.read(s,"C:/Users/User/OneDrive/Υπολογιστής/SC/mfdoom.wav");
 
+//ta kommatia einai megala se megethos opote tha xreiastei na ta katevasete eseis//
+//Aphex Twin: https://www.youtube.com/watch?v=ihyQf8mww3o//
+//Mf Doom: https://www.youtube.com/watch?v=RYS73rrpM38//
+
 Routine
 {
 	var x,y,storm;
