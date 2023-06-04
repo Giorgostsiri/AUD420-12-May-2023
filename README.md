@@ -2,4 +2,14 @@
 
 Πρώτη εκδοχή κώδικα 
 
-Τα τραγούδια θα πρέπει να τα κατεβάσετε εσείς καθώς το github δεν δέχετε αρχεία πάνα από 24mb. Έχω τους συνδέσμους ως σχόλιο στην αρχή του κώδικα
+Τραγούδια
+---------
+
+Aphex Twin - Alberto Balsalm
+MF DOOM - Kon Karne (Acapella)
+
+Κώδικας Βροχής/Κεραυνού
+-----------------------
+
+«Rain and thunder» by Jonatan Liljedahl
+https://sccode.org/1-e
