@@ -1,11 +1,11 @@
 # AUD420-12-May-2023
 
-Πρώτη εκδοχή κώδικα 
+Δεύτερη εκδοχή κώδικα 
 
-Τραγούδια
+Κομμάτια
 ---------
-Aphex Twin - Alberto Balsalm<br>
-MF DOOM - Kon Karne (Acapella)<br>
+Aphex Twin - Alberto Balsalm / https://www.youtube.com/watch?v=-ZVZgCrHy5E<br>
+MF DOOM - Kon Karne (Acapella) / https://www.youtube.com/watch?v=RYS73rrpM38<br>
 Sea Waves 5 minute Meditation / https://www.youtube.com/watch?v=5nI8EyKMo2E
 
 Κώδικας Βροχής/Κεραυνού
