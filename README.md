@@ -2,6 +2,7 @@
 
 Δεύτερη εκδοχή κώδικα 
 
+<i>Εισαγωγή</i>
 Κομμάτια
 ---------
 Aphex Twin - Alberto Balsalm / https://www.youtube.com/watch?v=-ZVZgCrHy5E<br>
@@ -16,3 +17,5 @@ https://sccode.org/1-e
 Σύνδεσμος για την λήψη των τραγουδιών
 -------------------------------------
 https://drive.google.com/drive/folders/19ER-UlBjMk6VbA0dK8GzwQYZl5b322Ad?usp=sharing
+
+Υ.Γ Για να ακούσετε τα κομμάτια/buffers, αλλάξτε το path των ~buf.
