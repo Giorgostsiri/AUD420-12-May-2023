@@ -6,7 +6,7 @@
 ---------
 Aphex Twin - Alberto Balsalm<br>
 MF DOOM - Kon Karne (Acapella)<br>
-Sea Waves 5 minute Meditation /[ ](https://www.youtube.com/watch?v=5nI8EyKMo2E)
+Sea Waves 5 minute Meditation / https://www.youtube.com/watch?v=5nI8EyKMo2E
 
 Κώδικας Βροχής/Κεραυνού
 -----------------------
