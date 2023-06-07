@@ -1,8 +1,7 @@
 # AUD420-12-May-2023
 
 Δεύτερη εκδοχή κώδικα 
-
-<i>Εισαγωγή</i><br><br>
+<br><br>
 Κομμάτια
 ---------
 Aphex Twin - Alberto Balsalm / https://www.youtube.com/watch?v=-ZVZgCrHy5E<br>
